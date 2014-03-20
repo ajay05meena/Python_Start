@@ -1,0 +1,3 @@
+file write example
+writing multiple lines
+trying to show use of split llines
